@@ -130,3 +130,5 @@ dmypy.json
 
 
 shutter.log
+mqtt.ini
+shutter.ini
